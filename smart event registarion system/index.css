@@ -36,3 +36,18 @@ p{
 *{
   box-sizing: border-box;
 }
+
+nav a{
+  display: inline-block;
+  padding: 10px 20px;
+  border: 2px solid black;
+  margin: 5px;
+ color: black; 
+ text-decoration: none;
+ 
+}
+
+nav a:hover {
+    background-color: black;
+    color: white;
+}
