@@ -1,14 +1,19 @@
-nav a {
-    display: inline-block;
-    border: 2px solid black;
-    padding: 10px 20px;
-    margin: 5px ;
+nav a{
     text-decoration: none;
-    color: black;
-    background-color: aqua;
+    display: inline-block;
+    border: 3px solid black;
+    padding: 10px 20px;
+    margin: 5px;background-color: aqua;
+    border-radius:10px;
+    transition: 0.3s;
+    font-weight: bold;
     
+
+
 }
 
-a:hover{
+nav a:hover {
     background-color: brown;
+    color: aliceblue;
+
 }
