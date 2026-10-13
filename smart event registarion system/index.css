@@ -22,6 +22,9 @@ p{
   color: green;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+
 .title{
   color: red;
 }
@@ -30,7 +33,19 @@ p{
   color: black;
 }
 #about{
-  background-color: cadetblue;
+  background-color: rgb(155, 219, 222);
+  margin: 30px;
+  padding: 20px;
+  color: rgb(7, 52, 91);
+  border: 2px solid black;
+  border-radius: 10px;
+  line-height: 1.6;
+}
+#about h2{
+  text-align: center;
+}
+#about p {
+  color: rgb(21, 109, 21);
 }
 
 *{
@@ -62,3 +77,6 @@ nav{
   
 }
 
+.para{
+  color: black;
+}
