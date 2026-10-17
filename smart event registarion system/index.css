@@ -4,7 +4,7 @@ table, th, td {
 
 h1{
   background-color: rgb(17, 255, 0);
-  color: blue;
+  color: rgb(25, 25, 219);
   font-size: 60px;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: center;
@@ -36,16 +36,24 @@ p{
   background-color: rgb(155, 219, 222);
   margin: 30px;
   padding: 20px;
-  color: rgb(7, 52, 91);
+  color: rgb(6, 120, 220);
   border: 2px solid black;
   border-radius: 10px;
   line-height: 1.6;
+
 }
 #about h2{
   text-align: center;
+  margin-bottom: 35px;
+  color: navy;
+  
+  
 }
 #about p {
   color: rgb(21, 109, 21);
+  line-height: 1.6;
+  margin-bottom: 10px;
+
 }
 
 *{
@@ -80,3 +88,21 @@ nav{
 .para{
   color: black;
 }
+
+
+
+
+
+
+
+
+#speakers h2{
+
+  margin-bottom: 10px;
+}
+#speakers article{
+padding: 10px;
+border: 2px solid black;
+margin: 10px;
+}
+
