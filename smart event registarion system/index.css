@@ -1,6 +1,5 @@
-table, th, td {
-  border:1px solid black;
-}
+
+
 
 h1{
   background-color: rgb(17, 255, 0);
@@ -135,4 +134,18 @@ font-weight: bold;
 
 #schedule h2{
   text-align: center;
+  margin-bottom: 20px;
+
 }
+
+
+#schedule{
+  background-color: lightblue;
+  margin: 30px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid black
+
+
+}
+#schdule 
